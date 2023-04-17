@@ -1,8 +1,6 @@
 <template>
   <h1>SELAMAT DATANG!</h1>
-  <p>Nama: Astrid Ramadhani</p>
-  <p>Tanggal Lahir: 5 November 2003</p>
-  <p>Golongan Darah: AB</p>
+  <img src="https://smpitalmumtazptk.sch.id/wp-content/uploads/2020/04/056b52eef24e3e753a544d84004bccc8.png">
 </template>
 <script>
 export default {

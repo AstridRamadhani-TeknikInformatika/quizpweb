@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Profile</a>
+      <a class="navbar-brand" href="#">Profile-Astrid Ramadhani</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -13,6 +13,9 @@
           </li>
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="#"><router-link to="/contact" style="color: black;">About</router-link></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#"><router-link to="/album" style="color: black;">Portofolio</router-link></a>
           </li>
         </ul>
       </div>
